@@ -1,0 +1,24 @@
+build/default/debug/app.p1:  \
+app.c  \
+app.h  \
+ECU/ECU_INIT.h  \
+ECU/../MCAL/GPIO/GPIO.h  \
+ECU/../MCAL/GPIO/../COMPILER.h  \
+ECU/../MCAL/GPIO/../STD_TYPES.h  \
+ECU/../MCAL/GPIO/../STD_LIBS.h  \
+ECU/../MCAL/GPIO/../DEVICE_CFG.h  \
+ECU/../MCAL/GPIO/GPIO_CFG.h  \
+ECU/LED/LED.h  \
+ECU/LED/LED_CFG.h  \
+ECU/Button/BUTTON.h  \
+ECU/Button/BUTTON_CFG.h  \
+ECU/Relay/RELAY.h  \
+ECU/Relay/RELAY_CFG.h  \
+ECU/DC_Motor/DC_MOTOR.h  \
+ECU/DC_Motor/DC_MOTOR_CFG.h  \
+ECU/7_Segment/_7_SEGMENT.h  \
+ECU/7_Segment/_7_SEGMENT_CFG.h  \
+ECU/Keypad/KEYPAD.h  \
+ECU/Keypad/KEYPAD_CFG.h  \
+ECU/Char_LCD/CHAR_LCD.h  \
+ECU/Char_LCD/CHAR_LCD_CFG.h 
