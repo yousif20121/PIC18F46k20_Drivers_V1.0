@@ -1,1 +1,3 @@
-*.SIWG linguist-vendored=false
+*.SWIG linguist-vendored=false
+*.C linguist-vendored=true
+*.Makefile linguist-vendored=true
