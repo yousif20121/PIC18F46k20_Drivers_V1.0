@@ -1,4 +1,8 @@
-* linguist-vendored
-*.swig linguist-vendored=true
-*.c linguist-vendored=true
-*.makefile linguist-vendored=true
+# Ignore SWIG files
+*.i linguist-vendored
+
+# Display as C files
+*.c linguist-language=C
+
+# Display as Makefile
+Makefile linguist-language=Makefile
