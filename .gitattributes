@@ -1,3 +1,4 @@
+* linguist-vendored
 *.swig linguist-vendored=false
 *.c linguist-vendored=true
 *.makefile linguist-vendored=true
